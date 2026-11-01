@@ -1,0 +1,17 @@
+{
+  "name": "ceo-mail-centre",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily triage desk for social media messages, new followers and follow-ups across Build From Abroad and Conceptbox, with Claude-drafted replies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/claude-shim.js && node scripts/check-app.js",
+    "demo": "node -e \"console.log('Open http://localhost:3000/?demo=1 for the demo');\" && node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "UNLICENSED"
+}

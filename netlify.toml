@@ -1,0 +1,11 @@
+# Netlify: deploys the static portfolio demo from public/.
+# No build step and no environment variables are needed.
+[build]
+  publish = "public"
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
