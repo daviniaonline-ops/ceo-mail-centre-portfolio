@@ -4,7 +4,7 @@
 
 Created through AI-assisted development, directed by Davinia Edafioka for her businesses, Build From Abroad and Conceptbox Consulting. Used by Davinia in her daily and weekly business routines, with workflows designed to support a founder and virtual assistant.
 
-**Live demo:** _add your Netlify or GitHub Pages link here_
+**[Open the live demo](https://daviniaonline-ops.github.io/ceo-mail-centre-portfolio/)**
 
 ![Today screen](docs/screenshots/today.jpg)
 
