@@ -2,7 +2,7 @@
 
 **A daily social-response workspace, with reply drafting and structured follow-ups. The public demo uses simulated replies and fictional people.**
 
-Created through AI-assisted development, directed by Davinia Edafioka for her businesses, Build From Abroad and Conceptbox Consulting. Designed to support a founder and virtual assistant.
+Created through AI-assisted development, directed by Davinia Edafioka for her businesses, Build From Abroad and Conceptbox Consulting. Used by Davinia in her daily and weekly business routines, with workflows designed to support a founder and virtual assistant.
 
 **Live demo:** _add your Netlify or GitHub Pages link here_
 
